@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "Method Up: Elevated Development"
+baseurl = "http://methopdup.com/"
+theme = "dimension"
+
+[params]
+  title = "Method Up LLC"
+  description = '<!--[-->Eelevated Development<!--]--><br />
+                <!--[-->Mobile Consulting & Services<!--]--><br /><br />
+                <!--[--><em>Note: this is a placeholder site during migration</em><!--]-->'
+  logo = "fa-level-up"
+  copyright = "Method Up LLC"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
